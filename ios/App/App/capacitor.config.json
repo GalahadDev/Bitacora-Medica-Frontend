@@ -1,0 +1,9 @@
+{
+	"appId": "com.bitacora.medica",
+	"appName": "MedLog",
+	"webDir": "dist",
+	"packageClassList": [
+		"AppPlugin",
+		"CAPCameraPlugin"
+	]
+}
